@@ -2,8 +2,8 @@
 I’m a freelance Data Scientist based in France.
 
 In these repos :
-- Data Analyst projects done between 2021/10 and 2022/05
-- AI engineer projects done between 2022/05 and 2022/11
+- Data Analyst projects done between 2021/10 and 2022/05 (full code at https://renard.xyz/dev/rhese)
+- AI engineer projects done between 2022/05 and 2022/11 (full code at https://renard.xyz/dev/rhese)
 - some personal stuff done on my spare time
 
 ---
